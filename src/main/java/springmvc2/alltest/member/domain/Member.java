@@ -1,4 +1,4 @@
-package springmvc2.alltest.login.domain;
+package springmvc2.alltest.member.domain;
 
 import jakarta.validation.constraints.NotEmpty;
 import lombok.AllArgsConstructor;

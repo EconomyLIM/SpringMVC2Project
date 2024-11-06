@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import springmvc2.alltest.login.domain.Member;
-import springmvc2.alltest.login.domain.MemberRepository;
+import springmvc2.alltest.member.domain.Member;
+import springmvc2.alltest.member.domain.MemberRepository;
 
 /**
  * date           : 2024-11-06

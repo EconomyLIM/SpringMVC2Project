@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import springmvc2.alltest.login.domain.Member;
+import springmvc2.alltest.member.domain.Member;
 import springmvc2.alltest.login.service.LoginService;
 import springmvc2.alltest.session.SessionConst;
 

@@ -3,8 +3,8 @@ package springmvc2.alltest.login.service;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import springmvc2.alltest.login.domain.Member;
-import springmvc2.alltest.login.domain.MemberRepository;
+import springmvc2.alltest.member.domain.Member;
+import springmvc2.alltest.member.domain.MemberRepository;
 
 /**
  * date           : 2024-11-06

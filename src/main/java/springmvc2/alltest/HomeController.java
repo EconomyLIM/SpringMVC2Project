@@ -3,9 +3,8 @@ package springmvc2.alltest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.SessionAttribute;
-import springmvc2.alltest.login.domain.Member;
+import springmvc2.alltest.member.domain.Member;
 import springmvc2.alltest.session.SessionConst;
 
 /**

@@ -2,8 +2,8 @@ package springmvc2.alltest.login.domain;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+import springmvc2.alltest.member.domain.Member;
+import springmvc2.alltest.member.domain.MemberRepository;
 
 /**
  * date           : 2024-11-06

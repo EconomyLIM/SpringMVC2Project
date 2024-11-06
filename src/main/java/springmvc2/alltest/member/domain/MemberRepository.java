@@ -1,4 +1,4 @@
-package springmvc2.alltest.login.domain;
+package springmvc2.alltest.member.domain;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Repository;
