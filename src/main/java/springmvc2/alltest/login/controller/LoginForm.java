@@ -5,7 +5,7 @@ import lombok.Data;
 
 /**
  * date           : 2024-11-06
- * created by     : 임경재 ( bmw4117@entropykorea.com )
+ * created by     : 임경재 
  * description    :
  */
 @Data
