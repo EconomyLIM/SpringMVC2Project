@@ -1,14 +1,15 @@
 ## 김영한 - 스프링 MVC 2편을 토대로 만든 프로젝트
-강의 링크: 
+강의 링크: [김영한 - 스프링 MVC 2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard)
 
 ### 기술 스택
 <ul>
   <li>JDK 17</li>
   <li>Spring Boot 3.3.5</li>
+  <li>gradle</li>
   <li>Thymeleaf</li>
 </ul>
 
-### 기술
+### 관련 기술
 <ul>
   <li>메시지, 국제화</li>
   <li>Bean Validation</li>
