@@ -25,4 +25,10 @@ public class Item {
 
     private UploadFile attachFile;
     private List<UploadFile> imageFiles;
+
+    public Item(String itemName, Integer price, Integer quantity) {
+        this.itemName = itemName;
+        this.price = price;
+        this.quantity = quantity;
+    }
 }
