@@ -24,7 +24,8 @@ public class AdminCheckInterceptor implements HandlerInterceptor {
         }
 
         if (!member.getAccess().equals("admin")){
-            response.sendError(HttpServletResponse.SC_FORBIDDEN);
+            response.sendError(HttpServletResponse.SC_UNAUTHORIZED);
+//            response.sendRedirect("");
             return false;
         }
 

@@ -7,7 +7,7 @@ import springmvc2.alltest.member.domain.MemberRepository;
 
 /**
  * date           : 2024-11-06
- * created by     : 임경재 ( bmw4117@entropykorea.com )
+ * created by     : 임경재
  * description    :
  */
 class MemberRepositoryTest {
